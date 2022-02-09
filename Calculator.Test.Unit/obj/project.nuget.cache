@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "fQw0e/xUIUsXhQeSBK+/6jX9/GQLTaLEgXDG+Qbm8kuo2mwepWYBVlEctFvFlEYu2ywL1R2+f6ujwHGauCzk+g==",
+  "dgSpecHash": "wL4K3vMRXzBASwKRTgPCt6y0fDYwa2G0Q+DjwEWeQocDhMdao7n4jyclq7Mc7iBXhbX2HAgrYs10BHms8DHu7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\OliverSpange\\software-test\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\OliverSpange\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\OliverSpange\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\OliverSpange\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\OliverSpange\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
