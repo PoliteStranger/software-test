@@ -887,7 +887,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Microsoft.CodeCoverage": "17.0.0",
           "Microsoft.NET.Test.Sdk": "17.0.0",
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "4.2.1"
@@ -3870,7 +3869,6 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Calculator >= 1.0.0",
-      "Microsoft.CodeCoverage >= 17.0.0",
       "Microsoft.NET.Test.Sdk >= 17.0.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.2.1",
@@ -3925,10 +3923,6 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Microsoft.CodeCoverage": {
-            "target": "Package",
-            "version": "[17.0.0, )"
-          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.0.0, )"
