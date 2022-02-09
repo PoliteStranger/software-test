@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95433ccd-6ee1-4b63-9790-f95970aefbe4": {
+      "ProjectGuid": "95433ccd-6ee1-4b63-9790-f95970aefbe4",
+      "DisplayName": "Calculator",
+      "ColorIndex": 0
+    },
+    "a4f9f198-a25b-426a-b93e-85f08270eec5": {
+      "ProjectGuid": "a4f9f198-a25b-426a-b93e-85f08270eec5",
+      "DisplayName": "Calculator.Test.Unit",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
