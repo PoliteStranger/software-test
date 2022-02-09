@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzv4IqEewTl97F9Psl/FN9GXfzFSfsxUcItpgX0rfBr+YhtjDXpAhgW1r4i6wGFkr2SL9DQ++ZdLiYFaEsQ7Sw==",
+  "dgSpecHash": "sdCMd/GvwKGXMmmIYMIIkGYDtkl+OEiGUKEMzntAuK4UzkXZTlz2pY84gRb7SXORhB8dW9q0EwW/93Q7mHlptA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OliverSpange\\software-test\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\OliverSpange\\software-test\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OliverSpange\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\OliverSpange\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
