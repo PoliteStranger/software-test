@@ -30,5 +30,10 @@ namespace Calculator
                 throw new ArgumentOutOfRangeException(String.Format($"exp is negative: {exp}"));
             return Math.Pow(a, exp);
         }
+
+        public double Division(double a, double b)
+        {
+            return (a / b);
+        }
     }
 }
